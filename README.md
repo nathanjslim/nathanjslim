@@ -15,4 +15,5 @@ Always looking for new opportunities to learn and improve!
 - [Resume](https://github.com/nathanjsli)
 
 Sincerely,
+
 Nathan Lim
