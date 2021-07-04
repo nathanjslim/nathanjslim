@@ -9,7 +9,6 @@ Always looking for new opportunities to learn and improve!
 
 
 ## Find out more about me here!
-- [LinkedIn](https://www.linkedin.com/in/nathan-jslim/)
 - [Website](https://nathanjslim.github.io/)
 - [Github](https://github.com/nathanjslim)
 - [Resume](https://github.com/nathanjsli)
