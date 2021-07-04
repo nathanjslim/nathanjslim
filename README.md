@@ -14,7 +14,4 @@ Always looking for new opportunities to learn and improve!
 - [Github](https://github.com/nathanjslim)
 - [Resume](https://github.com/nathanjsli)
 
-## Languages
-
-
 Nathan Lim
