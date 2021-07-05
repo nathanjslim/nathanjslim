@@ -1,4 +1,5 @@
-# Thanks for checking out my profile!
+# Hi there 👋, I'm Nathan
+Thanks for checking out my profile!
 
 ## About Me
 - 🏫 3rd Year BBA/CS Student at the University of Toronto
