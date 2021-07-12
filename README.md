@@ -7,7 +7,7 @@ Thanks for checking out my profile!
 - 🍁 Born and Raised in Canada
 
 Always looking for new opportunities to learn and improve!
-
+ 
 
 
 ## Find out more about me here!
